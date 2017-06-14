@@ -34,7 +34,7 @@ def ten_reports(reports):
     This is an ugly solution at best...
     """
     for count, report in enumerate(reports):
-        if count == 10:
+        if count == 1000:
             raise StopIteration
         yield report
 
