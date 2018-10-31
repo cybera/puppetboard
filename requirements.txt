@@ -6,4 +6,4 @@ WTForms==1.0.4
 Werkzeug==0.9.3
 itsdangerous==0.22
 pypuppetdb==0.1.0
-requests==1.2.3
+requests>=2.20.0
